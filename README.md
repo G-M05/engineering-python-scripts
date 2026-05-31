@@ -1,5 +1,5 @@
 # Engineering Python Scripts
-Small Python utilities and engineering-focused scripts for embedded systems, electronics, and data analysis practice.
+Small Python utilities and engineering focused scripts for embedded systems, electronics, and data analysis practice.
 
 This repository contains small engineering focused Python utilities and practice scripts related to embedded systems, electronics, automation, and data analysis.
 
